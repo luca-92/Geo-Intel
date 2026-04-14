@@ -1,8 +1,11 @@
 # Geo Intel MVP
 
 <p align="center">
-  <img src="docs/images/screenshot-01.png" alt="Geo Intel MVP Dashboard" width="48%" />
-  <img src="docs/images/screenshot-02.png" alt="Intel Point Detail and Tabs" width="48%" />
+  <img src="docs/images/screenshot-01.png" alt="Geo Intel MVP Dashboard" width="80%" />
+</p>
+
+<p align="center">
+  <img src="docs/images/screenshot-02.png" alt="Intel Point Detail and Tabs" width="80%" />
 </p>
 
 **Geo Intel MVP** is a tool designed for the **intel component**, useful for **aggregating, organizing, and visualizing georeferenced information on a map**.  
